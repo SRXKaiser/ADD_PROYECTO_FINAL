@@ -1,7 +1,8 @@
-pandas
+﻿pandas
 ipykernel
 numpy
 matplotlib
 seaborn
 scikit-learn
-ipykernel
+mord
+tensorflow
